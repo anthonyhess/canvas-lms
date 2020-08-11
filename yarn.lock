@@ -9412,6 +9412,7 @@ graceful-fs@~2.0.3:
 
 "graphael@https://github.com/ryankshaw/graphael.git":
   version "1.2.0"
+  uid "067542642fa240925e4e3dd13153333ae1d3ad60"
   resolved "https://github.com/ryankshaw/graphael.git#067542642fa240925e4e3dd13153333ae1d3ad60"
   dependencies:
     raphael "^2.1.4"
@@ -16120,9 +16121,9 @@ range-parser@^1.0.3, range-parser@^1.2.0, range-parser@^1.2.1, range-parser@~1.2
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
 raphael@^2.1.4:
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/raphael/-/raphael-2.2.8.tgz#4b18443c2c6030c3b492d8d11fbbca14ebe4d3f3"
-  integrity sha512-0kWKcGn4lXTw4eUiOhjspYiG+v0m6zSmTmlO62E0hl2CYKUvCuHER9YKqXYvOn2nj24mYp8jzHOLeBuj/Gn28Q==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/raphael/-/raphael-2.3.0.tgz#eabeb09dba861a1d4cee077eaafb8c53f3131f89"
+  integrity sha512-w2yIenZAQnp257XUWGni4bLMVxpUpcIl7qgxEgDIXtmSypYtlNxfXWpOBxs7LBTps5sDwhRnrToJrMUrivqNTQ==
   dependencies:
     eve-raphael "0.5.0"
 
@@ -18974,9 +18975,9 @@ tinymce@^4.5.7:
   integrity sha512-ZRoTGG4GAsOI73QPSNkabO7nkoYw9H6cglRB44W2mMkxSiqxYi8WJlgkUphk0fDqo6ZD6r3E+NSP4UHxF2lySg==
 
 tinymce@^5:
-  version "5.0.6"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.0.6.tgz#a31972acf3fe4c4440229d3223b17b965a302258"
-  integrity sha512-9/pcrO8awssCrbfSeNzlt2talFO4ZBCxiwWFLTrSOy5kJI4gXKGKHsZzstoyt7cbwbT1cUjLlUiDqW8IgmL6JA==
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.4.0.tgz#ae9c784fd36651d4d457be844a18fc138ca4f1f3"
+  integrity sha512-b3j+cUogfOtRt07Zc6iOrOAVosm4hekLtE85lmvjH7tPH7ncAIBv/cpdre9GdfeXSz7TVIJWASVvi4hkOTTh3A==
 
 title-case@^2.1.0:
   version "2.1.1"
