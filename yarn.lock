@@ -9412,6 +9412,7 @@ graceful-fs@~2.0.3:
 
 "graphael@https://github.com/ryankshaw/graphael.git":
   version "1.2.0"
+  uid "067542642fa240925e4e3dd13153333ae1d3ad60"
   resolved "https://github.com/ryankshaw/graphael.git#067542642fa240925e4e3dd13153333ae1d3ad60"
   dependencies:
     raphael "^2.1.4"
@@ -16120,9 +16121,9 @@ range-parser@^1.0.3, range-parser@^1.2.0, range-parser@^1.2.1, range-parser@~1.2
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
 raphael@^2.1.4:
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/raphael/-/raphael-2.2.8.tgz#4b18443c2c6030c3b492d8d11fbbca14ebe4d3f3"
-  integrity sha512-0kWKcGn4lXTw4eUiOhjspYiG+v0m6zSmTmlO62E0hl2CYKUvCuHER9YKqXYvOn2nj24mYp8jzHOLeBuj/Gn28Q==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/raphael/-/raphael-2.3.0.tgz#eabeb09dba861a1d4cee077eaafb8c53f3131f89"
+  integrity sha512-w2yIenZAQnp257XUWGni4bLMVxpUpcIl7qgxEgDIXtmSypYtlNxfXWpOBxs7LBTps5sDwhRnrToJrMUrivqNTQ==
   dependencies:
     eve-raphael "0.5.0"
 
@@ -17567,10 +17568,10 @@ shelljs@0.3.x:
   resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.3.0.tgz#3596e6307a781544f591f37da618360f31db57b1"
   integrity sha1-NZbmMHp4FUT1kfN9phg2DzHbV7E=
 
-shelljs@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.7.0.tgz#3f6f2e4965cec565f65ff3861d644f879281a576"
-  integrity sha1-P28uSWXOxWX2X/OGHWRPh5KBpXY=
+shelljs@0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
