@@ -91,7 +91,7 @@
     "parse-decimal-number": "1.0.0",
     "parse-link-header": "^1",
     "prop-types": "^15",
-    "qs": "^6.6.0",
+    "qs": "^6.7.3",
     "react": "^16.8.0",
     "react-apollo": "^2.1.1",
     "react-dnd": "^2.5.2",
